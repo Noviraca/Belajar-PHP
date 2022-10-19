@@ -1,0 +1,28 @@
+{
+	"PHP Format": {
+		"prefix": "pphp",
+		"body": [
+			"<?php",
+			"$1"
+		],
+		"description": "PHP Format"
+	},
+	"PHP Format 2": {
+		"prefix": "pphpp",
+		"body": [
+			"<?php",
+			"$1",
+			"?>"
+		],
+		"description": "Php Format"
+	},
+	"PHP echo": {
+		"prefix": "pecho",
+		"body": [
+			"<?= $1 ?>",
+		],
+		"description": "Php Echo"
+	}
+
+
+}
